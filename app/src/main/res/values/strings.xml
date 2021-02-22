@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My News Feed</string>
+    <string name="title_bar_article">%1$s</string>
+</resources>
