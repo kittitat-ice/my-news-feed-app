@@ -1,5 +1,3 @@
-# my-news-feed-app\
-
 # News Feed App
 
 + Android Kotlin
